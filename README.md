@@ -1,2 +1,2 @@
-# sand
-sand game
+# sand-game
+Play with all sorts of elements
